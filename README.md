@@ -1,2 +1,3 @@
 # grabdocs-testing
-This repository contains automated end-to-end tests for the GrabDocs web application, implemented using Selenium Playwright with Python. The goal of this project is to validate essential user workflows such as Authentication, workflow, chat, and files through browser-based automation.
+This repository contains automated end-to-end tests for GrabDocs, an intelligent document management platform.
+Tests are implemented using Python, Pytest, and Playwright to validate key user workflows such as authentication, workspace management, uploads, and chat functionality.
